@@ -5,7 +5,7 @@
 ![update add cart](https://user-images.githubusercontent.com/91000837/230968612-0c80b013-2ce8-48d0-88eb-b67280929f04.PNG)
 
 **After inserting product**
-![after update](https://user-images.githubusercontent.com/91000837/230967681-f609da0f-659e-4478-935a-d0090b430df2.PNG)
+![admin added](https://user-images.githubusercontent.com/91000837/230968874-442f8242-8343-4155-93a5-693cbf3104be.PNG)
 
 **Admin pannel of this website**
 ![admin home pannel](https://user-images.githubusercontent.com/91000837/230967997-ba6addec-d699-49fa-9386-4db1a16eb22d.PNG)
